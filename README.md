@@ -1,3 +1,4 @@
 # Learning
 Learning git
-author: himal
+author: himal Acharya
+Intrested area: electronic, emmbedded systems, AI.
